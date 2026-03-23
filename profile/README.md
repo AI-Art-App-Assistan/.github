@@ -2,13 +2,19 @@
 
 AI Art App Assistant Studio is a feature-rich desktop application designed to support artists, creators, and designers in generating, managing, and customizing AI-generated art. Built on powerful neural networks, it allows you to turn text prompts into images in seconds. But it doesn’t stop there — with built-in organization, preview, style presets, and editing tools, this assistant goes beyond generation. Export your work in high resolution, apply artistic filters, organize projects, and streamline your creative pipeline with ease. Perfect for daily concept art, social media visuals, or professional content production.
 
-<div style="text-align: center">
-  <a href="https://ai-art-app-assistan.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Art_App_Assistant-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
+
+
 
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
 
